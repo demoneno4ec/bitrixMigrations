@@ -1,0 +1,6 @@
+/bitrix/*
+/upload/*
+.htaccess
+.access.php
+/vendor/*
+/local/modules/*

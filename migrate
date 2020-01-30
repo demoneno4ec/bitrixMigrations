@@ -1,0 +1,5 @@
+#!/usr/bin/env php
+<?php
+
+$_SERVER['DOCUMENT_ROOT'] = __DIR__;
+require_once $_SERVER['DOCUMENT_ROOT'] . '/local/modules/sprint.migration/tools/migrate.php';
